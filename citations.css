@@ -1,0 +1,21 @@
+body /*matches with other pages*/
+{
+	background-color : black;
+	color : gold;
+}
+
+ul /*formating for citations*/
+{
+	text-align : justify;
+	font-size : 13pt;
+}
+
+h1
+{
+	text-align : center;
+}
+
+p
+{
+	font-size : 15pt;
+}

@@ -1,0 +1,35 @@
+body
+{
+	background-color : black;
+	color : gold;
+}
+
+p
+{
+	text-align : justify;
+	font-size : 13pt;
+}
+
+h1
+{
+	text-align : center;
+}
+
+.center /*centering image*/
+{
+	display : block;
+	margin-left : auto;
+	margin-right : auto;
+	width : 50%;
+}
+
+ol
+{
+	font-size : 14pt;
+}
+
+a /*to make links contrast with backround*/
+{
+	font-size : 14pt;
+	color : blue;
+}
